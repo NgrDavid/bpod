@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://bitbucket.org/glopes/bonsai.bpod/raw/dee5c44259f71b2d3001ad1b87fd68c126ab1691/LICENSE</licenseUrl>
+    <projectUrl>https://bitbucket.org/glopes/bonsai.bpod</projectUrl>
+    <iconUrl>https://bitbucket.org/horizongir/bonsai/raw/7aacc64dc4647e57362ab310238591dc197fef0d/Resources/Bonsai.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>$author$ © 2018</copyright>
+    <tags>Bonsai Bpod</tags>
+  </metadata>
+</package>
