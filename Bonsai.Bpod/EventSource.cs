@@ -8,7 +8,7 @@ namespace Bonsai.Bpod
 {
     public enum EventSource : byte
     {
-        Usb,
+        StateMachine,
         Ttl,
         I2C
     }
