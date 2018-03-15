@@ -36,10 +36,6 @@
       <HintPath>..\packages\Bonsai.Core.2.3.0\lib\net45\Bonsai.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Bonsai.System, Version=2.3.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Bonsai.System.2.3.1\lib\net45\Bonsai.System.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Reactive.Core, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
@@ -71,6 +67,7 @@
     <Compile Include="EventSource.cs" />
     <Compile Include="OpCode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SerialPortNameConverter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Bonsai.Bpod.nuspec" />
